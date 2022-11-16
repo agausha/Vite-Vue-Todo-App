@@ -1,0 +1,28 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "title": "Create New Promotion Page",
+      "details": "lorem ipsume lorem ipsume lorem ipsume lorem ipsume",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Meeting With The Team",
+      "details": "lorem ipsume lorem ipsume",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Finish The Project In Two Month",
+      "details": "lorem ipsume lorem ipsume",
+      "complete": false
+    },
+    {
+      "title": "Start A New Project",
+      "details": "lorem ipsume lorem ipsume",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
